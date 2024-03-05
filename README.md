@@ -137,8 +137,10 @@ int main() {
 ### Output:
 
 ## Encryption:
+![Screenshot (480)](https://github.com/ashmistalin/RainFence_Cipher/assets/103128410/151e1d4f-191b-4aef-b63a-e8f5bb2bd4f4)
 
 ## Decryption:
+![Screenshot (481)](https://github.com/ashmistalin/RainFence_Cipher/assets/103128410/fad936c4-a960-48ae-a26d-4562a8df6310)
 
 
 ### Result:
